@@ -23,7 +23,7 @@ def GetCell(x, y):
 if __name__ == "__main__":
 
     # Define the name of the file that holds the info.
-    FileName = "MazeB (1).json"
+    FileName = "MazeB.json"
 
     # Define the size of the cell on the screen.
     CellSize = 20
